@@ -1,7 +1,17 @@
-# Hi, I’m Bimbisara Pinnamaneni </>
-### _MS in Computer Science at California State University, Los Angeles | 2+ Years of Experience with Web Development | Actively seeking Summer Internships ‘23_
+# Hi, I'm Bimbisara Pinnamaneni! 👋
 
-<!---
-bimbisara13/bimbisara13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 MS in Computer Science at California State University, Los Angeles
+- 💼 Exploring Full-Time Opportunities in Web Development
+
+## About Me
+
+- 🚀 2+ Years of Experience in Web Development
+- 🌐 Passionate about creating seamless web experiences
+- 🛠️ Turning ideas into code | Solving real-world problems
+
+## Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bimbisara13/)
+- 🔗 [Portfolio](https://bimbisara.dev)
+
+## Let's Code With Passion! 🚀
