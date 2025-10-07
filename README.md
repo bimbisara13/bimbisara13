@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🚀 2+ Years of Experience in Web Development
+- 🚀 3+ Years of Experience in Web Development
 - 🌐 Passionate about creating seamless web experiences
 - 🛠️ Turning ideas into code | Solving real-world problems
 
