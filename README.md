@@ -1,6 +1,6 @@
 # Hi, I'm Bimbisara Pinnamaneni! </>
 
-- 💼 Exploring Full-Time Opportunities in Web Development
+- 💼 Exploring Full-Time Opportunities in Frontend Development
 - 🎓 MS in Computer Science at California State University, Los Angeles
 
 ## About Me
